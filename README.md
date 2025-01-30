@@ -4,9 +4,11 @@
 </p>
 
 [//]: # (打字机)
-<!-- https://github.com/DenverCoder1/readme-typing-svg -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&pause=500&color=FFC0CB&center=true&vCenter=true&width=600&lines=%E4%B8%8D%E7%A7%AF%E8%B7%AC%E6%AD%A5%E6%97%A0%E4%BB%A5%E8%87%B3%E5%8D%83%E9%87%8C;%E4%B8%8D%E7%A7%AF%E5%B0%8F%E6%B5%81%E6%97%A0%E4%BB%A5%E6%88%90%E6%B1%9F%E6%B5%B7)](https://git.io/typing-svg)
+<p align="center">
+    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&pause=500&color=FFC0CB&center=true&vCenter=true&width=600&lines=%E4%B8%8D%E7%A7%AF%E8%B7%AC%E6%AD%A5%E6%97%A0%E4%BB%A5%E8%87%B3%E5%8D%83%E9%87%8C;%E4%B8%8D%E7%A7%AF%E5%B0%8F%E6%B5%81%E6%97%A0%E4%BB%A5%E6%88%90%E6%B1%9F%E6%B5%B7" alt="Hello World" title="Hello World"/>
+</p>
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
