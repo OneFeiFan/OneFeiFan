@@ -25,7 +25,7 @@
 <img align="center" src="https://github-readme-stats-theta-five-24.vercel.app/api/top-langs/?username=OneFeiFan&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6"/>
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,ts,md&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,kotlin,nodejs,html,css,js,ts,md&theme=light" />
 </p>
 
 <!-- https://github.com/badges/shields -->
